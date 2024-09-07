@@ -1,288 +1,210 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1725688924858 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1725689379961 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688927981 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689383068 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688931102 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689386168 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688934194 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689389258 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688937289 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689392389 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688940389 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689395500 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688943484 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689398605 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688946586 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689401723 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688949681 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689404836 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688952831 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689407935 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688955955 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689411044 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688959075 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689414154 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688962168 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689417259 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688965271 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689420366 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688968376 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689423486 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688971496 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689426584 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688974612 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689429705 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688977728 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689432795 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688980829 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689435917 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688983948 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689439010 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688987050 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689442129 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688990149 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689445245 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688993269 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689448410 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688996368 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689451548 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725688999509 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689454667 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689002633 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689457824 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689005748 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689460922 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689008879 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689464019 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689012000 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689467139 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689015093 tunnel running, 2 tunnels registered
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725689470231 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
 safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689018200 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689021296 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689024385 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689027477 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689030599 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689033712 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689036827 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689039919 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689043020 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689046139 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689049246 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689052325 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689055400 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689058566 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689061657 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689064757 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689067866 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725689070977 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-department-thousands.gl.at.ply.gg:3536 => 127.0.0.1:19132 (minecraft-bedrock)
-safety-colony.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bed-romance.gl.at.ply.gg:14296 => 127.0.0.1:25565 (proto: Both, port count: 1)
